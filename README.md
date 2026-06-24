@@ -18,6 +18,30 @@ The objective of this project is to analyze student learning data, identify patt
 * JSON
 
 ---
+## Installation & Usage
+
+Clone the repository:
+
+```bash
+git clone https://github.com/mahika74/AI-Learning-Lab-Analysis.git
+cd AI-Learning-Lab-Analysis
+```
+
+Install dependencies:
+
+```bash
+pip install pandas numpy matplotlib
+```
+
+Run the scripts:
+
+```bash
+python task1_load_explore.py
+python task2_clean_data.py
+python task3_analyze_data.py
+python task4_visual_report.py
+python bonus_sql_analysis.py
+```
 
 ## Project Workflow
 
