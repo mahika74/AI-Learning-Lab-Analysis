@@ -18,6 +18,13 @@ The objective of this project is to analyze student learning data, identify patt
 * JSON
 
 ---
+## Project Highlights
+
+- Processed 110+ student learning records
+- Performed data cleaning and preprocessing
+- Generated visual analytics reports
+- Built a SQLite database for querying
+- Exported analytical summaries to JSON
 ## Installation & Usage
 
 Clone the repository:
